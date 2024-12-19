@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Custom Post Types Dashboard Widget
-Description: Add a customizable dashboard widget to display selected custom post types.
 Version: 1.0
+Description: Add a customizable dashboard widget to display selected custom post types.
 Author: phirebase
 Author URI: https://phirebase.com/
 License: GPL-2.0-or-later

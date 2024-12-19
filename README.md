@@ -1,5 +1,6 @@
 === Custom Post Types Dashboard Widget ===
 Contributors: brtak
+Donate link: https://phirebase.com/
 Tags: custom post types, dashboard, widget
 Requires at least: 5.0
 Tested up to: 6.7.1
@@ -24,7 +25,7 @@ Features include:
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/custom-post-types-dashboard-widget/` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Navigate to `Settings > CPT Widget Settings` to configure which post types to display.
 

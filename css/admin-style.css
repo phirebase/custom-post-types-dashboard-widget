@@ -1,0 +1,55 @@
+/* Styles for the dashboard widget wrapper */
+.cptdw-widget .wrap h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* General styling for the CPT dashboard widget */
+.cptdw-widget {
+    padding: 0; 
+    margin: 0; 
+    background: none;
+    border: none;
+}
+
+/* List styling for recent posts */
+.cptdw-recent-posts {
+    margin: 0;
+    padding: 0;
+    list-style-type: none; 
+}
+
+/* Individual list item styling */
+.cptdw-recent-posts li {
+    padding: 4px 12px; 
+    margin-bottom: 0px;
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+}
+
+/* Background color for odd rows */
+.cptdw-recent-posts li:nth-child(odd) {
+    background-color: #f7f7f7; 
+}
+
+/* Background color for even rows */
+.cptdw-recent-posts li:nth-child(even) {
+    background-color: #ffffff; 
+}
+
+/* Hover effect for list items */
+.cptdw-recent-posts li:hover {
+    background-color: #d7f0ff; 
+}
+
+/* Styling for links in list items */
+.cptdw-recent-posts li a {
+    text-decoration: none; 
+    color: #0073aa; 
+    transition: color 0.3s ease; 
+}
+
+/* Hover effect for links */
+.cptdw-recent-posts li a:hover {
+    color: #003954; 
+}

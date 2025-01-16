@@ -1,12 +1,12 @@
-=== Custom Post Types Dashboard Widget ===
-Contributors: brtak
-Tags: custom post types, dashboard, widget, admin
-Requires at least: 5.2
-Tested up to: 6.7.1
-Requires PHP: 7.4
-Stable tag: 1.0.0
-License: GPL-2.0-or-later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+=== Custom Post Types Dashboard Widget ===  
+Contributors: brtak  
+Tags: custom post types, dashboard, widget, admin  
+Requires at least: 5.2  
+Tested up to: 6.7.1  
+Requires PHP: 7.4  
+Stable tag: 1.0.0  
+License: GPL-2.0-or-later  
+License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
 Customizable WordPress dashboard widgets for displaying selected custom post types.
 

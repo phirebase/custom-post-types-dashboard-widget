@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Custom Post Types Dashboard Widget 1.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-post-types-"
 "dashboard-widget\n"
-"POT-Creation-Date: 2024-12-27T17:37:02+00:00\n"
-"PO-Revision-Date: 2024-12-27 18:57+0100\n"
+"POT-Creation-Date: 2025-01-16T23:56:39+00:00\n"
+"PO-Revision-Date: 2025-01-17 00:58+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -43,33 +43,37 @@ msgstr "phirebase"
 msgid "https://phirebase.com/"
 msgstr "https://phirebase.com/"
 
-#: custom-post-types-dashboard-widget.php:37
-#: custom-post-types-dashboard-widget.php:38
-#: custom-post-types-dashboard-widget.php:50
+#: custom-post-types-dashboard-widget.php:47
+#: custom-post-types-dashboard-widget.php:48
+#: custom-post-types-dashboard-widget.php:62
 msgid "Custom Post Widget Settings"
 msgstr "Nastavení widgetů pro vlastní příspěvky"
 
-#: custom-post-types-dashboard-widget.php:70
+#: custom-post-types-dashboard-widget.php:88
 msgid "Widget Settings"
 msgstr "Nastavení widgetů"
 
-#: custom-post-types-dashboard-widget.php:77
+#: custom-post-types-dashboard-widget.php:95
 msgid "Select Post Types"
 msgstr "Vybrat typy příspěvků"
 
-#: custom-post-types-dashboard-widget.php:146
+#: custom-post-types-dashboard-widget.php:107
+msgid "Settings"
+msgstr "Nastavení"
+
+#: custom-post-types-dashboard-widget.php:182
 msgid "Invalid post type."
 msgstr "Neplatný typ příspěvku."
 
 #. translators: Text shown before the number of published posts.
-#: custom-post-types-dashboard-widget.php:154
+#: custom-post-types-dashboard-widget.php:190
 msgid "Total published:"
 msgstr "Celkem zveřejněno:"
 
-#: custom-post-types-dashboard-widget.php:166
+#: custom-post-types-dashboard-widget.php:204
 msgid "No recent posts."
 msgstr "Žádné nedávné příspěvky."
 
-#: custom-post-types-dashboard-widget.php:171
+#: custom-post-types-dashboard-widget.php:209
 msgid "(No title)"
 msgstr "(Bez názvu)"

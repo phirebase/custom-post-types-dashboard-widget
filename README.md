@@ -44,7 +44,7 @@ Yes, the plugin is tested and compatible with WordPress 6.7
 
 = 1.0.1 =
 
-xxxxxxxxxxxxxxxxxxxxxxxxx
+Added "Settings" link to plugin list actions.
 
 = 1.0 =
    

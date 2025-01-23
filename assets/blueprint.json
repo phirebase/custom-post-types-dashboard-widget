@@ -1,0 +1,17 @@
+{
+    "name": "Custom Post Types Dashboard Widget",
+    "description": "Adds a custom post type widget to the WordPress dashboard.",
+    "plugins": [
+      {
+        "name": "Custom Post Types Dashboard Widget",
+        "uri": "https://downloads.wordpress.org/plugin/custom-post-types-dashboard-widget.latest-stable.zip"
+      }
+    ],
+    "wp": {
+      "version": "6.7.1"
+    },
+    "actions": [
+      "activate:custom-post-types-dashboard-widget/custom-post-types-dashboard-widget.php"
+    ]
+  }
+  

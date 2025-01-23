@@ -8,7 +8,7 @@
       }
     ],
     "wp": {
-      "version": "6.7.1"
+      "version": "6.3"
     },
     "actions": [
       "activate:custom-post-types-dashboard-widget/custom-post-types-dashboard-widget.php"

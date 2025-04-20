@@ -2,7 +2,7 @@
 Contributors: brtak  
 Tags: custom post types, dashboard, widget, admin  
 Requires at least: 5.2  
-Tested up to: 6.7.1  
+Tested up to: 6.8  
 Requires PHP: 7.4  
 Stable tag: 1.0.1  
 Donate link: https://paypal.me/DavidKlhufek  

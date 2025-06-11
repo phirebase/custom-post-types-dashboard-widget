@@ -75,7 +75,7 @@ Yes. Fully tested and verified with **WordPress 6.8**
 ## 🙏 Credits
 
 Developed by [David Klhufek](https://phirebase.com)  
-Plugin page: https://wordpress.org/plugins/custom-post-types-dashboard-widget/  
+Plugin page: <https://wordpress.org/plugins/custom-post-types-dashboard-widget/>  
 Support the project: [paypal.me/DavidKlhufek](https://paypal.me/DavidKlhufek)
 
 ---
